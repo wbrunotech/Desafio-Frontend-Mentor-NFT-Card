@@ -1,4 +1,4 @@
-# Desafio do Frontend Mentor: NFT Preview Card Component.
+# Desafio Frontend Mentor: NFT Preview Card Component.
 
 ## Acesse:
 https://wbrunotech.github.io/Desafio-Frontend-Mentor-NFT-Card/
